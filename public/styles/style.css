@@ -1,0 +1,12 @@
+.label{
+  font-size: 11px;
+}
+
+form{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+input{
+  padding: 5px 15px;
+}
