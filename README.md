@@ -1,2 +1,2 @@
 # MyGithubSearchApp
-My first single app
+My first simple React app
